@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Tanbir
+Aspiring Data Analyst | Python • Pandas • SQL • Data Visualization
 
-<!--
-**tanbir-94/tanbir-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently working on:
+- 📊 [Sales Data Analysis Project]https://github.com/tanbir-94/sales-data-analysis
 
-Here are some ideas to get you started:
+🛠 Skills:
+- Python (Pandas, NumPy, Seaborn, Plotly)
+- SQL Basics
+- Power BI & Excel
+- Data Cleaning & EDA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's Connect:
+- LinkedInhttps://www.linkedin.com/in/md-tanbir-rja-067561236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
